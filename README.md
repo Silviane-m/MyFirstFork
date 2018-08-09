@@ -5,4 +5,4 @@ Name:
 
 Instituition:
 
-i am at the OpenScienceKE to ... 
+i am at the OpenScienceKE to ... learn
